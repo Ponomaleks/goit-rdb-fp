@@ -1,4 +1,4 @@
-# GoIT RDB Final Project: Infectious Diseases Database Normalization & Analytics
+# Neoversity RDB Final Project: Infectious Diseases Database Normalization & Analytics
 
 This project is the final assignment for the Relational Databases (RDB) course. It demonstrates data import, normalization up to the 3rd Normal Form (3NF), aggregation queries, date manipulation using built-in SQL functions, and custom stored functions in MySQL.
 
